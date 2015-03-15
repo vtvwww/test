@@ -1,3 +1,8 @@
+#Основы Git. Подключение к GitHub
+#https://www.youtube.com/watch?v=2VQfRn1H8HE
+
+
+
 Welcome to Git (version 1.8.1.2-preview20130201)
 
 
