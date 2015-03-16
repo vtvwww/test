@@ -1,7 +1,7 @@
-#Основы Git. Подключение к GitHub
+#ГЋГ±Г­Г®ГўГ» Git. ГЏГ®Г¤ГЄГ«ГѕГ·ГҐГ­ГЁГҐ ГЄ GitHub
 #https://www.youtube.com/watch?v=2VQfRn1H8HE
 
-
+Hello/ These are my changes.
 
 Welcome to Git (version 1.8.1.2-preview20130201)
 
