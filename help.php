@@ -1,7 +1,8 @@
-#Îñíîâû Git. Ïîäêëþ÷åíèå ê GitHub
+﻿#Îñíîâû Git. Ïîäêëþ÷åíèå ê GitHub
 #https://www.youtube.com/watch?v=2VQfRn1H8HE
 
 Hello/ These are my changes.
+121212
 
 Welcome to Git (version 1.8.1.2-preview20130201)
 
